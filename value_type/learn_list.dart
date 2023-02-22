@@ -16,7 +16,7 @@ void main() {
   userNameList.removeAt(0);
   userNameList.remove('Mansur');
   userAgeList.insert(0, 90);
-  int number = 100;
+  int number = 80;
 
   print(userNameList);
   print(userAgeList);
