@@ -4,7 +4,10 @@ class UserInfo {
   String? age;
   int? number;
   UserInfo(
-      {required this.username, required this.age, this.number = 5648945, required this.surname});
+      {required this.username,
+      required this.age,
+      this.number = 56448454654,
+      required this.surname});
 }
 
 class ProjectStrings {

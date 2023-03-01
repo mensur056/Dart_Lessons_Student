@@ -1,11 +1,15 @@
 void main() {
-  Map<String, dynamic> userInfo = {
-    'name': "Sahin",
-    'age': 50,
+  Map userInfo = {
     'surname': 'Pasayev',
+    'age': 50,
+    'name': "Sahin",
   };
 
   print(
     userInfo['age'],
   );
+
+  print(userInfo.keys);
+
+  print(userInfo.values);
 }
