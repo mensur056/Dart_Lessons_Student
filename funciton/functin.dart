@@ -1,4 +1,4 @@
-void main(List<String> args) {
+void main() {
   changeNumber('Test1', 20);
 
   changeName("sahin");
