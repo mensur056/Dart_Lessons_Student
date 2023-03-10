@@ -27,5 +27,3 @@
 // bu listden Tahiri silmeni ve Tahirin  yerine   Elekberi daxil et ve en sonda listin icinde ne qeder ad oldugunu ekranda goster
 
 
-// EXERCISE 5
-// 
